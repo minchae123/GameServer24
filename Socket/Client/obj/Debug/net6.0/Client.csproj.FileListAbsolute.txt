@@ -1,0 +1,15 @@
+D:\01_Unity\GameServer24\Socket\Client\bin\Debug\net6.0\Client.exe
+D:\01_Unity\GameServer24\Socket\Client\bin\Debug\net6.0\Client.deps.json
+D:\01_Unity\GameServer24\Socket\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\01_Unity\GameServer24\Socket\Client\bin\Debug\net6.0\Client.dll
+D:\01_Unity\GameServer24\Socket\Client\bin\Debug\net6.0\Client.pdb
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.dll
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\refint\Client.dll
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.pdb
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\01_Unity\GameServer24\Socket\Client\obj\Debug\net6.0\ref\Client.dll

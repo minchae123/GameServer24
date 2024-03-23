@@ -1,0 +1,12 @@
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\bin\Debug\net6.0\ChatLib.deps.json
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\bin\Debug\net6.0\ChatLib.dll
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\bin\Debug\net6.0\ChatLib.pdb
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ChatLib.csproj.AssemblyReference.cache
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ChatLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ChatLib.AssemblyInfoInputs.cache
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ChatLib.AssemblyInfo.cs
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ChatLib.csproj.CoreCompileInputs.cache
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ChatLib.dll
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\refint\ChatLib.dll
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ChatLib.pdb
+D:\01_Unity\GameServer24\Chat_Sync\ChatLib\obj\Debug\net6.0\ref\ChatLib.dll

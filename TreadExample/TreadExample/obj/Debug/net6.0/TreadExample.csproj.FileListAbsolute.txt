@@ -1,0 +1,15 @@
+D:\01_Unity\GameServer24\TreadExample\TreadExample\bin\Debug\net6.0\TreadExample.exe
+D:\01_Unity\GameServer24\TreadExample\TreadExample\bin\Debug\net6.0\TreadExample.deps.json
+D:\01_Unity\GameServer24\TreadExample\TreadExample\bin\Debug\net6.0\TreadExample.runtimeconfig.json
+D:\01_Unity\GameServer24\TreadExample\TreadExample\bin\Debug\net6.0\TreadExample.dll
+D:\01_Unity\GameServer24\TreadExample\TreadExample\bin\Debug\net6.0\TreadExample.pdb
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.csproj.AssemblyReference.cache
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.AssemblyInfoInputs.cache
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.AssemblyInfo.cs
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.csproj.CoreCompileInputs.cache
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.dll
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\refint\TreadExample.dll
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.pdb
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\TreadExample.genruntimeconfig.cache
+D:\01_Unity\GameServer24\TreadExample\TreadExample\obj\Debug\net6.0\ref\TreadExample.dll

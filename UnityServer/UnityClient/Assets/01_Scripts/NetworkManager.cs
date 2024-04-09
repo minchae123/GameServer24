@@ -14,6 +14,11 @@ public class NetworkManager : MonoBehaviour
     // 세션 1개만 사용 예정이므로, SessionManager 미사용
     ServerSession _session = new ServerSession();
 
+    public void Send(ArraySegment<byte> sendBuff)
+	{
+        _session.Send(sendBuff);
+	}
+
     void Start()
     { 
         // DNS
@@ -24,17 +29,23 @@ public class NetworkManager : MonoBehaviour
         Connector connector = new Connector();
         connector.Connect(endPoint, () => { return _session; }, 1);
 
-        StartCoroutine(CoSendPacket());
+        //StartCoroutine(CoSendPacket());
 
     }
 
     void Update()
     {
-        IPacket packet =  PacketQueue.Instance.Pop();
-        if(packet != null)
+        List<IPacket> list = PacketQueue.Instance.PopAll();
+        foreach(IPacket packet  in list)
 		{
             PacketManager.Instance.HandlePacket(_session, packet);
 		}
+            
+        //IPacket packet =  PacketQueue.Instance.Pop();
+        //if(packet != null)
+		//{
+        //    PacketManager.Instance.HandlePacket(_session, packet);
+		//}
     }
 
     IEnumerator CoSendPacket()
@@ -42,11 +53,11 @@ public class NetworkManager : MonoBehaviour
         while(true)
 		{
             yield return new WaitForSeconds(3);
-            PlayerInfoReq packet = new PlayerInfoReq();
-            packet.name = "Alsco";
-            ArraySegment<byte> segment = packet.Write();
+            //PlayerInfoReq packet = new PlayerInfoReq();
+            //packet.name = "Alsco";
+            //ArraySegment<byte> segment = packet.Write();
 
-            _session.Send(segment);
+            //_session.Send(segment);
 		}
 	}
 
